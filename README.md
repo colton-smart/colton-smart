@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Colton Smart
-- 👀 I’m a former mechanical automation engineer looking to move into the software space
-- 🌱 I love to learn. Right now, I'm learning more Java, Python, Javascript, HTML, CSS, SQL, Postgres and different frameworks such as React and Angular
+- 👀 I’m a former mechanical automation engineer, now software engineer, currently employed by Rock Garden, a tech startup with some very cool technology and potential.
+- 🌱 I love to learn and enjoy building iOS, Android and Web apps. (Especially in Flutter!)
 - 📫 How to reach me: my personal email is colton.smart@gmail.com, send me a message!
 
 <!---
